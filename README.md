@@ -1,7 +1,9 @@
-# Login_Express_App
-This is the project demonstrate login express app created with node and express.
+# Login Page
+Sample login page with validations.
 
-### To run this project clone it and open up the terminal. and type a command,
+### To run 
 ``` npm install ```
+
+``` npm run ```
 
 This command will install all the dependancy in the project.
